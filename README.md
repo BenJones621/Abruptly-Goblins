@@ -28,7 +28,7 @@ A short description of your data analysis project: what dataset you used, why yo
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
+  <li><strong>Languages & Libraries:</strong> Python</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
 </ul>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -39,8 +39,6 @@ A short description of your data analysis project: what dataset you used, why yo
 ## Installation
 
 Example of a Step-by-step instructions to set up the project locally:
-
-```bash
 
 # Clone the repository
 git clone https://github.com/BenJones621/Abruptly-Goblins.git
@@ -54,8 +52,6 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
-
-``` 
 
 ## Usage
 
